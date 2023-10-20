@@ -6,7 +6,7 @@
 #include <limits>
 
 //Подключение нужных библиотек
-using namespace std;
+using namespace std; //Подключение std
 
 //Функция для вывода красной строки без выхода из программы
 void outputRedStr(const string& str) {
